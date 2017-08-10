@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	font-family: "raleway", sans-serif;
+	margin: 0;
+}
+h1 {color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	margin: 0;}
+a {color: #F15B31;
+   letter-spacing: 1px;
+   font-weight: 600px;
+   font-size: 18px;
+	margin: 0 20px;}
+nav {background-color: #00A6B3;
+	 padding: 20px 0px;}
+h2 {color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;}
+p {font-family: "Droid Serif";
+   line-height: 24px;
+   font-size: 18px;}
+h3 {font-weight: 200;}
+header {background-color: #F15B31;
+		padding: 30px 20px;}
+main {width: 850px;
+	  margin: 35px auto;}
+img {margin: 40px 8px 0px 8px;}
+
+
+
+
+
+
+
+
